@@ -1,0 +1,6 @@
+rootProject.name = 'MMC-FitnessApp'
+include 'BE'
+include 'FE'
+include 'REST-API'
+include 'MMC-Fitness'
+
